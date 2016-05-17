@@ -1,6 +1,6 @@
-//MCC Nestor Gomez
-//
-//"Hola Tetera"
+//Animación de lampara de Pixar
+//Graficas computacionales
+//Sebastian Chimal Montes de Oca
 
 #ifdef _WIN32
 #include "glut.h"
